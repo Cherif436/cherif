@@ -23,22 +23,22 @@ const Layouts = () => {
     exit={{ opacity: 0 }}
     transition={{ duration: 1 }} className="overflow-y-scroll">
       <nav className="flex items-center justify-center overflow-x-auto text-md">
-        <Link href="/" className="p-2">
+        <Link href="/" className="p-1">
             <FaHome className="text-2xl font-bold dark:text-white hover:text-red-500" />
         </Link>
-        <Link href="/parcours" className="p-2 hover:text-red-500">
+        <Link href="/parcours" className="p-1 hover:text-red-500">
           Parcours
         </Link>
-        <Link href="/resume" className="p-2 hover:text-red-500">
+        <Link href="/resume" className="p-1 hover:text-red-500">
           Compétences
         </Link>
-        <Link href="/projects" className="p-2 hover:text-red-500">
+        <Link href="/projects" className="p-1 hover:text-red-500">
           Projets
         </Link>
-        <Link href="/contact" className="p-2 hover:text-red-500">
+        <Link href="/contact" className="p-1 hover:text-red-500">
           Contact
         </Link>
-        <div className="p-2">
+        <div className="p-1">
           <div>
             {/* <h1 className="font-bold text-center text-7xl">
               {currentTheme === 'dark' ? 'Dark' : 'Light'}{' '}
