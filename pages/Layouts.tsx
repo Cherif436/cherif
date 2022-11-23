@@ -31,6 +31,13 @@ const Layouts = () => {
         </Link>
         <Link href="/" className="p-1">   
         </Link>
+        <Link href="/" className="p-1">   
+        </Link>
+        <Link href="/" className="p-1">   
+        </Link>
+        <Link href="/" className="p-1">
+            <FaHome className="text-2xl font-bold dark:text-white hover:text-red-500" />
+        </Link>
         <Link href="/parcours" className="p-1 hover:text-red-500">
           Parcours
         </Link>
@@ -42,9 +49,6 @@ const Layouts = () => {
         </Link>
         <Link href="/contact" className="p-1 hover:text-red-500">
           Contact
-        </Link>
-        <Link href="/" className="p-1">
-            <FaHome className="text-2xl font-bold dark:text-white hover:text-red-500" />
         </Link>
         <div className="p-1">
           <div>
