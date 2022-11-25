@@ -211,16 +211,6 @@ export const projects: IProject[] = [
   },
   {
     id: 8,
-    name: "Site Nettoyage vitre",
-    description: "Société proposant des services de nettoyage",
-    image_path: "/images/clean.png",
-    deployed_url: "https://vlcleaningservices.vercel.app/",
-    github_url: "https://github.com/Cherif436",
-    category: ['next'],
-    key_techs: ['next']
-  },
-  {
-    id: 9,
     name: "Site restaurant",
     description: "Application de commande de nourriture",
     image_path: "/images/restaurant.png",
