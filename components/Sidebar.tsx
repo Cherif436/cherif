@@ -29,7 +29,7 @@ const Sidebar = () => {
         </div>
         <div className="flex items-center justify-center space-x-2">
           <FaMobile />
-          <p className="my-2">+32466400160</p>
+          <p className="my-2">+324 66 40 01 60</p>
         </div>
       </div>
 
@@ -81,7 +81,7 @@ const Sidebar = () => {
                     <p><strong>Nom:</strong> Merzoud</p>
                     <p><strong>Prénom:</strong> Cherif</p>
                     <p><strong>Email:</strong> mzd.cs@live.fr</p>
-                    <p><strong>Téléphone:</strong> +32466400160</p>
+                    <p><strong>Téléphone:</strong> +324 66 400 160</p>
                     <div className="flex justify-center text-yellow-500">
                       <a href="https://github.com/Cherif436" target="_blank" rel="noopener noreferrer">
                         <AiFillGithub className="w-8 h-8 cursor-pointer" />
