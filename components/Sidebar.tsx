@@ -24,11 +24,11 @@ const Sidebar = () => {
           <span className="drop-shadow-lg hover:text-red-500" onClick={() => setShowModalMaps(true)}>8 Groenstraat, Vlezenbeek</span>
         </div>
         <div className="flex items-center justify-center space-x-2">
-          <FaEnvelopeSquare />
+          <FaEnvelopeSquare className="text-yellow-500" />
           <p className="my-2"> mzd.cs@live.fr</p>
         </div>
         <div className="flex items-center justify-center space-x-2">
-          <FaMobile />
+          <FaMobile className="text-yellow-500" />
           <p className="my-2">+324 66 40 01 60</p>
         </div>
       </div>
