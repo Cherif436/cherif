@@ -16,7 +16,7 @@ const Sidebar = () => {
         <span className="text-red-500">Merzoud</span> <span className="text-yellow-500">Cherif</span>
       </h3>
       <p className="px-2 py-1 my-3 border border-yellow-500 rounded-full hover:bg-gradient-to-r dark:bg-dark-200 dark:bg-black-500" onClick={() => setShowModal(true)}>Développeur web</p>
-      <a className="flex items-center justify-center px-2 py-1 my-2 border border-yellow-500 rounded-full cursor-pointer hover:bg-gradient-to-l dark:bg-dark-200 dark:bg-black-500" href="/images/CV.pdf" download="CV.pdf"><AiOutlineFilePdf className="w-6 h-6 text-red-500" /> Télécharger le CV</a>
+      <a className="flex items-center justify-center px-2 py-1 my-2 border border-yellow-500 rounded-full cursor-pointer hover:bg-gradient-to-l dark:bg-dark-200 dark:bg-black-500" href="/images/CV Cherif-Merzoud.pdf" download="CV Cherif-Merzoud.pdf"><AiOutlineFilePdf className="w-6 h-6 text-red-500" /> Télécharger le CV</a>
 
       <div className="py-4 my-5 bg-gradient-to-t from-yellow-400 to-transparent dark:bg-dark-200 dark:bg-black-500" style={{ marginLeft: '-1rem', marginRight: '-1rem' }}>
         <div className="flex items-center justify-center space-x-2">
@@ -108,7 +108,7 @@ const Sidebar = () => {
                   >
                     Envoyer message
                   </button>
-                  <a className="px-6 py-3 mb-1 mr-1 text-sm font-bold text-white uppercase transition-all duration-150 ease-linear rounded shadow outline-none bg-gradient-to-r bg-emerald-500 active:bg-emerald-600 hover:shadow-lg focus:outline-none" href="/images/CV.pdf" download="CV.pdf"> Télécharger le CV</a>
+                  <a className="px-6 py-3 mb-1 mr-1 text-sm font-bold text-white uppercase transition-all duration-150 ease-linear rounded shadow outline-none bg-gradient-to-r bg-emerald-500 active:bg-emerald-600 hover:shadow-lg focus:outline-none" href="/images/CV Cherif-Merzoud.pdf" download="CV Cherif-Merzoud.pdf"> Télécharger le CV</a>
                 </div>
               </div>
             </div>
