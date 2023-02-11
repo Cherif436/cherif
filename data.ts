@@ -151,13 +151,13 @@ export const projects: IProject[] = [
   },
   {
     id: 2,
-    name: "Platefome developpeur web",
-    description: "Recrutement de profil développeur",
-    image_path: "/images/p1.png",
+    name: "BLOG",
+    description: "Site web blog app",
+    image_path: "/images/blog2.png",
     deployed_url: "",
     github_url: "https://github.com/Cherif436",
     category: ['react', 'mongo'],
-    key_techs: ['react', 'node', 'mongo']
+    key_techs: ['react', 'node', 'mongo', 'express']
   },
   {
     id: 3,
