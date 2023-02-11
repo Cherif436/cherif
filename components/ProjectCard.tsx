@@ -24,7 +24,7 @@ const ProjectCard:FunctionComponent<{
 }) => {
 
   return (
-    <div className="overflow-y-scroll" style={{height: '22.5vh'}}>
+    <div className="overflow-y-scroll" style={{height: '22vh'}}>
       <Image 
         src={image_path} 
         alt={name}
