@@ -152,7 +152,7 @@ export const projects: IProject[] = [
   {
     id: 2,
     name: "BLOG",
-    description: "Site web blog app",
+    description: "publication d'articles",
     image_path: "/images/blog2.png",
     deployed_url: "",
     github_url: "https://github.com/Cherif436",
