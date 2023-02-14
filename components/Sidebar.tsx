@@ -34,7 +34,7 @@ const Sidebar = () => {
       </div>
 
       <div className="flex justify-around w-9/12 m-auto my-5 text-yellow-500 md:w-full">
-        <a href="https://www.facebook.com/cherif.merzoud.9" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.facebook.com/profile.php?id=100089448963886" target="_blank" rel="noopener noreferrer">
           <AiFillFacebook className="w-8 h-8 cursor-pointer" />
         </a>
         <a href="https://www.instagram.com/cherif.mzd" target="_blank" rel="noopener noreferrer">
